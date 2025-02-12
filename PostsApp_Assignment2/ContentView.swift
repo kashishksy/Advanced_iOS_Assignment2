@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  PostsApp_Assignment2
 //
-//  Created by Kashish Yadav on 2025-02-11.
+//  Created by Kashish Yadav and Komal Mavani on 2025-02-11.
 //
 
 import SwiftUI
